@@ -1,0 +1,17 @@
+{
+  "name": "generator-yago",
+  "version": "0.1.0",
+  "description": "Yago generator",
+  "main": "index.js",
+  "author": "YTRodi",
+  "license": "ISC",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^5.8.0"
+  }
+}
