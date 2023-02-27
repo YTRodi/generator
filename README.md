@@ -5,5 +5,5 @@ Yeoman tool generator!
 ## Generators commands
 
 ```sh
-yo yago:react-ts-config
+yo yago:eslint-typescript
 ```
